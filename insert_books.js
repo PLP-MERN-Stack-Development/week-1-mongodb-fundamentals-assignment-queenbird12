@@ -93,16 +93,6 @@ const books = [
     publisher: 'Allen & Unwin'
   },
   {
-    title: 'Animal Farm',
-    author: 'George Orwell',
-    genre: 'Political Satire',
-    published_year: 1945,
-    price: 8.50,
-    in_stock: false,
-    pages: 112,
-    publisher: 'Secker & Warburg'
-  },
-  {
     title: 'The Alchemist',
     author: 'Paulo Coelho',
     genre: 'Fiction',

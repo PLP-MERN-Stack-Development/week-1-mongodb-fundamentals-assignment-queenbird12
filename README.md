@@ -45,3 +45,8 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [MongoDB University](https://university.mongodb.com/)
 - [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/) 
+
+setup instructions
+open mongodb compass
+create a new database and add the books collection
+open mongodb shell to run the querries refresh the collection to see changes.
